@@ -2,8 +2,6 @@
 
 Code to test OCR 
 
-## Test the code
-
 # Requirements
 * sudo apt install tesseract-ocr
 * sudo apt install libtesseract-dev
