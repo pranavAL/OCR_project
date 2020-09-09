@@ -9,7 +9,9 @@ Code to test OCR
 * sudo pip install opencv-python
 
 ### Run OCR
-python ocr.py "dataset/image.png"
+* python ocr.py "dataset/image.png"
+* Output is stored in Output.txt file
+
 
 ### Links to important datasets on the web
 * [Devanagari Handwritten Character Dataset](https://archive.ics.uci.edu/ml/datasets/Devanagari+Handwritten+Character+Dataset)
