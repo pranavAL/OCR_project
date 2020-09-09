@@ -16,4 +16,6 @@ if __name__ == '__main__':
 
     text = pytesseract.image_to_string(im, config=config)
 
-    print(text)
+    outfile = open('Output.txt', 'w')
+    outfile.write(text)
+    outfile.close()
