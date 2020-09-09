@@ -1,6 +1,6 @@
 ### OCR Code and Database
 
-Code to test OCR on receipts and database of different Indian language OCR dataset present on the web
+Code to test OCR 
 
 ## Test the code
 
